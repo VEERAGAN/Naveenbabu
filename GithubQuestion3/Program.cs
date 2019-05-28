@@ -10,6 +10,11 @@ namespace GithubQuestion3
     {
         static void Main(string[] args)
         {
+            int a = 10;
+            int b = 25;
+            int sum = a+b;
+            Console.WriteLine(sum);
+
         }
     }
 }
